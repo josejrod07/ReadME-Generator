@@ -76,7 +76,7 @@ function licenseBadge(license) {
   
   For repo questions or more info, open an issue or contact me directly at ${data.email}. 
   
-  More of my work available at https://github.com/${data.github}/)`;
+  More of my work available at https://github.com/${data.github}/`;
 
   }
   

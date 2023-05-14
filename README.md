@@ -3,7 +3,7 @@
   
   ## Description
   
-  Node.js project that generates a professional ReadMe taking in user input regarding information about it's installation, license, usage.
+  Node.js project that generates a professional ReadMe taking in user input regarding information about it's installation, license, usage, etc.
   
   ## Table of Contents 
   
@@ -51,4 +51,4 @@
   
   For repo questions or more info, open an issue or contact me directly at josejrod07@gmail.com. 
   
-  More of my work available at https://github.com/josejrod07/)
+  More of my work available at https://github.com/josejrod07/
