@@ -10,7 +10,7 @@ function licenseBadge(license) {
   // Function that returns the license link and returns an empty string if there's no license
   function licenseLink(license) {
     if (license !== 'None') {
-      return `\n* [License](#license)\n`;
+      return `\n  * [License](#license)\n`;
     }
     return '';
   }
@@ -44,11 +44,11 @@ function licenseBadge(license) {
   
   * [Tests](#tests)
   
-  * [Contact Information](#contact information)
+  * [Contact Information](#contact-information)
   
   ## Installation
   
-  To install dependencies run the following command:
+  To install dependencies run the following command in the terminal:
   
   \`\`\`
   ${data.installation}
@@ -66,7 +66,7 @@ function licenseBadge(license) {
   
   ## Tests
   
-  To run tests, run the following command:
+  To run tests, run the following command in the terminal:
   
   \`\`\`
   ${data.test}
@@ -76,7 +76,7 @@ function licenseBadge(license) {
   
   For repo questions or more info, open an issue or contact me directly at ${data.email}. 
   
-  More of my work available at [${data.github}](https://github.com/${data.github}/)`;
+  More of my work available at https://github.com/${data.github}/)`;
 
   }
   
