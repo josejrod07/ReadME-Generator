@@ -3,7 +3,7 @@
   
   ## Description
   
-  Node.js project that generates a professional ReadMe taking in user input regarding information about it's installation, license, usage, etc.
+  Node.js project that generates a professional README.md file taking in user input using the inquirer package regarding information about it's installation, license, usage, etc.
   
   ## Table of Contents 
   
