@@ -29,7 +29,7 @@
   
   ## Usage
   
-  Answer the prompts to provide the information to generate a new README file.
+  Answer the prompts to provide the information necessary to generate a new README file.
   
   ## License
   
