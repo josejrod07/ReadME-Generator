@@ -29,7 +29,7 @@
   
   ## Usage
   
-  
+  Answer the prompts to provide the information to generate a new README file.
   
   ## License
   
@@ -37,7 +37,7 @@
     
   ## Contributing
   
-  
+  Open issues or create pull requests to contribute to this repo.
   
   ## Tests
   

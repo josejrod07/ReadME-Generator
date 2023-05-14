@@ -62,8 +62,8 @@ const questions = [
 
 function writeToFile(fileName, data) {
     // The function uses the Node.js fs (file system) module to write the data to a file with the given fileName. The fs.writeFileSync() method writes data to a file synchronously and blocks execution until the file is written.
-    // The path.join() method is used to concatenate the current working directory (returned by process.cwd()) with the fileName argument, to create the full file path.
-    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
+    // The path.join() method is used to concatenate the readME folder with the fileName argument, to create the full file path.
+    return fs.writeFileSync(path.join('readME', fileName), data);
   }
   
   // Function to initialize app
