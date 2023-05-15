@@ -20,6 +20,8 @@
   * [Contact Information](#contact-information)
   
   ## Installation
+
+  Clone the repository with the command: git clone https://github.com/josejrod07/ReadME-Generator.git
   
   To install dependencies run the following command in the terminal:
   
@@ -35,11 +37,7 @@
   node index.js
   ```
   
-<<<<<<< HEAD
   * Answer each prompt to provide the information to generate a new README.md file in the readME folder.
-=======
-  Answer the prompts to provide the information necessary to generate a new README file.
->>>>>>> dd0bde4e828633176cc07534ea78d098be219c63
   
   ## License
   
