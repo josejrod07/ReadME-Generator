@@ -1,5 +1,5 @@
 # ReadME Generator
-  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)
   
   ## Description
   
@@ -28,8 +28,14 @@
   ```
   
   ## Usage
+
+  * Run the following command in the terminal to initialize the program:
+
+  ```
+  node index.js
+  ```
   
-  Answer the prompts to provide the information to generate a new README file.
+  * Answer each prompt to provide the information to generate a new README.md file in the readME folder.
   
   ## License
   
