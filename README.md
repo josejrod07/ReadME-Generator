@@ -18,6 +18,8 @@
   * [Tests](#tests)
   
   * [Contact Information](#contact-information)
+
+  * [Functinality Video](#functionality-video)
   
   ## Installation
 
@@ -60,3 +62,7 @@
   For repo questions or more info, open an issue or contact me directly at josejrod07@gmail.com. 
   
   More of my work available at https://github.com/josejrod07/
+
+  ## Functionality Video
+
+  * [Link](https://drive.google.com/file/d/1EGfGTQetg0srcn83UtitSIVqhuZEyTZM/view)
