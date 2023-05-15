@@ -1,5 +1,4 @@
-// Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Function that returns a license badge based on which license is passed in and returns an empty string if there's no license.
 function licenseBadge(license) {
     if (license !== 'None') {
       return `![GitHub License](https://img.shields.io/badge/License-${license}-blue.svg)`;
