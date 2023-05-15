@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function licenseBadge(license) {
     if (license !== 'None') {
-      return `![GitHub License](https://img.shields.io/badge/license-${license}-blue.svg)`;
+      return `![GitHub License](https://img.shields.io/badge/License-${license}-blue.svg)`;
     }
     return '';
   }
